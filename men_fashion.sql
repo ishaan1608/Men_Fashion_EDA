@@ -1,4 +1,3 @@
-use portfolio;
 -- Looking at the dataset --
 select *
 from asosmenfashion
